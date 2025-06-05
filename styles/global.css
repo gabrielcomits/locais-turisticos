@@ -53,5 +53,5 @@ ul {
 
     li::marker {
         color: var(--text-secondary);
-    }
+    } 
 }
