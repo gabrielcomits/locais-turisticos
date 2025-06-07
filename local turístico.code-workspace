@@ -6,5 +6,8 @@
         {
             "path": "../Imagens"
         }
-    ]
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "local turístico2"
+    }
 }
